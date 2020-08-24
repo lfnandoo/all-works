@@ -13,3 +13,4 @@
 - [ApiNodeJS](https://github.com/lfnandoo/node-api-rocketseat)
 - [WhatsappSpeed](https://github.com/lfnandoo/whatsapp-speed)
 - [Ecoleta](https://github.com/lfnandoo/nlw.starter)
+- [RedditAPI](https://github.com/lfnandoo/redditApi-react)
