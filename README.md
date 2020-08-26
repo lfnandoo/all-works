@@ -1,7 +1,7 @@
 # Works 😍
 
 ## ReactJS
-- [NetflixClone](https://netflix-clone-liard.vercel.app)
+- [NetflixClone](https://github.com/lfnandoo/netflix-clone)
 - [RedditAPI](https://github.com/lfnandoo/redditApi-react)
 - [AluraFlix](https://github.com/lfnandoo/aluraflix-react)
 - [Calculadora](https://github.com/lfnandoo/calculadora-react)
