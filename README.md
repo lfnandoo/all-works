@@ -1,6 +1,8 @@
 # Works 😍
 
 ## ReactJS
+- [PipefyClone](https://github.com/lfnandoo/pipefy-clone)
+- [YoutubeClone](https://github.com/lfnandoo/youtube-clone)
 - [NetflixClone](https://github.com/lfnandoo/netflix-clone)
 - [RedditAPI](https://github.com/lfnandoo/redditApi-react)
 - [AluraFlix](https://github.com/lfnandoo/aluraflix-react)
