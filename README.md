@@ -1,4 +1,4 @@
-# Works 😍
+# Works 🔥
 
 ## ReactJS
 - [AssinaSaude](https://github.com/lfnandoo/assinasaude-test)
