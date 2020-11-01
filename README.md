@@ -15,7 +15,7 @@
 - [GitHubAPI](https://github.com/lfnandoo/githubAPI)
 
 ## Vannila JS
-- [ToDoApp](https://github.com/lfnandoo/to-do) **EM DESENVOLVIMENTO**
+- [ToDoApp](https://github.com/lfnandoo/to-do)
 - [Devseek](https://github.com/lfnandoo/DevSeek)
 - [WiseGoat](https://github.com/lfnandoo/wise-goat)
 - [PokedexAPI](https://github.com/lfnandoo/pokedex-api)
